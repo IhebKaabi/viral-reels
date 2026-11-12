@@ -1,0 +1,17 @@
+{
+  "name": "viral-reels",
+  "owner": {
+    "name": "Iheb Kaabi",
+    "url": "https://github.com/IhebKaabi"
+  },
+  "description": "The viral-reels skill for planning short-form videos.",
+  "plugins": [
+    {
+      "name": "viral-reels",
+      "source": "./",
+      "description": "Plan, script, diagnose and break down short-form videos (Reels, TikTok, Shorts) as a chain of three psychological beats: stop the scroll, hold attention, pay off.",
+      "homepage": "https://github.com/IhebKaabi/viral-reels",
+      "license": "MIT"
+    }
+  ]
+}

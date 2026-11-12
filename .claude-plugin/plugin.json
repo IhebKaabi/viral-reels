@@ -1,0 +1,12 @@
+{
+  "name": "viral-reels",
+  "description": "Plan, script, diagnose and break down short-form videos (Reels, TikTok, Shorts) as a chain of three psychological beats: stop the scroll, hold attention, pay off.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Iheb Kaabi",
+    "url": "https://github.com/IhebKaabi"
+  },
+  "homepage": "https://github.com/IhebKaabi/viral-reels",
+  "repository": "https://github.com/IhebKaabi/viral-reels",
+  "license": "MIT"
+}
